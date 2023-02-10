@@ -1,11 +1,8 @@
-# Obsidian Notes
+# Notes - React Query Udemy Course
 
-Publish your public notes with MkDocs
-
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+1. [[Introduction to React Query]]
+2. [[Getting Started with React Query]]
+3. [[Handling Loading and Error states]]
+4. [[React Query DevTools]]
+5. [[Stale time vs Cache time]]
+6.
